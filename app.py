@@ -45,7 +45,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     .stApp { background-color: #0E1117; }
-    h1, h2, h3 { color: #E20074 !important; }
+    h1, h2, h3 { color: #2DD4A8 !important; }
 
     [data-testid="stMetric"] {
         background-color: #161B22;
@@ -62,13 +62,13 @@ st.markdown("""
     }
 
     .stButton > button {
-        background-color: #E20074;
+        background-color: #2DD4A8;
         color: white;
         border: none;
         border-radius: 6px;
     }
     .stButton > button:hover {
-        background-color: #B8005D;
+        background-color: #22A885;
         color: white;
     }
 
@@ -76,8 +76,8 @@ st.markdown("""
         color: #8B949E;
     }
     .stTabs [aria-selected="true"] {
-        color: #E20074 !important;
-        border-bottom-color: #E20074 !important;
+        color: #2DD4A8 !important;
+        border-bottom-color: #2DD4A8 !important;
     }
 </style>
 """, unsafe_allow_html=True)

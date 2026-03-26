@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 
 # Design-Konstanten
 BG_COLOR = "#0E1117"
-ACCENT_COLOR = "#E20074"
+ACCENT_COLOR = "#2DD4A8"
 GRID_COLOR = "#1E2330"
 TEXT_COLOR = "#FAFAFA"
 GREEN = "#00D26A"
@@ -19,7 +19,7 @@ YELLOW = "#FFB800"
 
 # Farbpalette fuer Kategorien
 CATEGORY_COLORS = [
-    "#E20074", "#00BFFF", "#FFA500", "#00D26A", "#FF6B6B",
+    "#2DD4A8", "#00BFFF", "#FFA500", "#E06090", "#FF6B6B",
     "#C084FC", "#F472B6", "#34D399", "#FBBF24", "#94A3B8",
 ]
 
